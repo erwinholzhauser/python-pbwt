@@ -1,0 +1,7 @@
+scikit-allel
+networkx
+numpy
+scipy
+intervaltree
+sh
+pip-tools
